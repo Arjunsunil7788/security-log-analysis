@@ -1,11 +1,11 @@
-** **Security Log Analysis & SIEM Monitoring
+Security Log Analysis & SIEM Monitoring
 A blue team project focused on analyzing Windows Event Logs and Linux syslogs to detect security anomalies, perform alert triage, and document incidents using SIEM platforms (Splunk and Wazuh).
 ---
-🎯 Objectives
+Objectives
 Ingest and analyze Windows and Linux logs in a SIEM environment
 Detect threats including failed logins, brute-force, privilege escalation, and unauthorized processes
 Perform structured alert triage — classify True Positives, False Positives, and Benign events
-Create professional incident reports with timeline, IOCs, and recommended response actions**
+Create professional incident reports with timeline, IOCs, and recommended response actions
 ---
 🛠️ Tools Used
 Tool	Purpose
